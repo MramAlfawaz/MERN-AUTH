@@ -1,0 +1,10 @@
+body {
+  background:  linear-gradient(to top right,  #616b6e94   0%,#abccf170 1000%);
+}
+
+
+h1, h4,p,h5{
+  color: black;
+ 
+  text-align: center;
+}
